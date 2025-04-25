@@ -6,9 +6,9 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [vercel](*https://mohammadrafiamin.vercel.app/*)
+- [vercel](https://mohammadrafiamin.vercel.app/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> ]
+<p align="right">(<a href="#readme-top">back to top</a>)</p> 
 
 
 ## 🛠 Built With
@@ -102,17 +102,17 @@ cd mohammadrafiamin
 ## 🔭 Future Features <a name="future-features"></a>
 
 🔮 Future Features
- Blog section to share insights, tutorials, or updates
+ > - Blog section to share insights, tutorials, or updates
 
- Dark mode toggle
+ > - Dark mode toggle
 
- Language switcher (multilingual support)
+ > - Language switcher (multilingual support)
 
- Project filtering by tags or categories
+ > - Project filtering by tags or categories
 
- Downloadable PDF resume
+ > - Downloadable PDF resume
 
- Animated typing effect on the homepage hero section
+ > - Animated typing effect on the homepage hero section
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
