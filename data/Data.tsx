@@ -35,3 +35,11 @@ export const projects = [
         tech: ['React', 'Vite', 'Chakra UI'],
       },
   ];
+
+  // app/skills/page.tsx
+export const skills = {
+    frontend: ['React', 'Next.js', 'TypeScript', 'JavaScript', 'HTML5', 'CSS3', 'Tailwind CSS', 'Chakra UI'],
+    backend: ['Node.js', 'Express', 'Ruby on Rails', 'PostgreSQL', 'MongoDB', 'REST APIs'],
+    tools: ['Git', 'GitHub', 'Vercel', 'Netlify', 'Figma', 'Framer Motion', 'Redux', 'Vite'],
+  };
+  
